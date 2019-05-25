@@ -1,6 +1,6 @@
 # sh-app8-day08
 
-hello
+hello monster
 from either side 
 world
 
